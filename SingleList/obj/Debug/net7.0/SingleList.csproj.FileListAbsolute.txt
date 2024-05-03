@@ -1,0 +1,15 @@
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\SingleList\bin\Debug\net7.0\SingleList.exe
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\SingleList\bin\Debug\net7.0\SingleList.deps.json
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\SingleList\bin\Debug\net7.0\SingleList.runtimeconfig.json
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\SingleList\bin\Debug\net7.0\SingleList.dll
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\SingleList\bin\Debug\net7.0\SingleList.pdb
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\SingleList\obj\Debug\net7.0\SingleList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\SingleList\obj\Debug\net7.0\SingleList.AssemblyInfoInputs.cache
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\SingleList\obj\Debug\net7.0\SingleList.AssemblyInfo.cs
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\SingleList\obj\Debug\net7.0\SingleList.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\SingleList\obj\Debug\net7.0\SingleList.sourcelink.json
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\SingleList\obj\Debug\net7.0\SingleList.dll
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\SingleList\obj\Debug\net7.0\refint\SingleList.dll
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\SingleList\obj\Debug\net7.0\SingleList.pdb
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\SingleList\obj\Debug\net7.0\SingleList.genruntimeconfig.cache
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\SingleList\obj\Debug\net7.0\ref\SingleList.dll
