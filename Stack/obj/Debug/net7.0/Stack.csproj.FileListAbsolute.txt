@@ -1,0 +1,15 @@
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\Stack\bin\Debug\net7.0\Stack.exe
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\Stack\bin\Debug\net7.0\Stack.deps.json
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\Stack\bin\Debug\net7.0\Stack.runtimeconfig.json
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\Stack\bin\Debug\net7.0\Stack.dll
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\Stack\bin\Debug\net7.0\Stack.pdb
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\Stack\obj\Debug\net7.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\Stack\obj\Debug\net7.0\Stack.AssemblyInfoInputs.cache
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\Stack\obj\Debug\net7.0\Stack.AssemblyInfo.cs
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\Stack\obj\Debug\net7.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\Stack\obj\Debug\net7.0\Stack.sourcelink.json
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\Stack\obj\Debug\net7.0\Stack.dll
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\Stack\obj\Debug\net7.0\refint\Stack.dll
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\Stack\obj\Debug\net7.0\Stack.pdb
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\Stack\obj\Debug\net7.0\Stack.genruntimeconfig.cache
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\Stack\obj\Debug\net7.0\ref\Stack.dll

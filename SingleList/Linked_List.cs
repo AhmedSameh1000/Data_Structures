@@ -73,13 +73,14 @@ namespace SingleList
             _Head = prev; //
         }
 
-        public void Delete_Front()
+        public int Delete_Front()
         {
             if (_Head is null)
                 throw new InvalidOperationException("Linked list is empty");
-
+            var value = _Head._data;
             _Head = _Head.next;
             length--;
+            return value;
         }
 
         public void Delete_Back()

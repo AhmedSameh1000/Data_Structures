@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector", "Vector\Vector.csproj", "{86DD3BEE-2818-4BA3-96CD-99379701DFED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vector", "Vector\Vector.csproj", "{86DD3BEE-2818-4BA3-96CD-99379701DFED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleList", "SingleList\SingleList.csproj", "{2D855CDE-D0A3-425A-A7A3-AFAD38BE1382}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleList", "SingleList\SingleList.csproj", "{2D855CDE-D0A3-425A-A7A3-AFAD38BE1382}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack", "Stack\Stack.csproj", "{EABB49CD-5E3F-4240-86D0-9F332C267B2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue", "Queue\Queue.csproj", "{18D0D3D6-0658-4240-92D7-CB8BC2CAAF4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublyLinked_list", "DoublyLinked_list\DoublyLinked_list.csproj", "{17D81B4C-EF52-4584-96F8-A1F5B919FB2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{2D855CDE-D0A3-425A-A7A3-AFAD38BE1382}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D855CDE-D0A3-425A-A7A3-AFAD38BE1382}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D855CDE-D0A3-425A-A7A3-AFAD38BE1382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EABB49CD-5E3F-4240-86D0-9F332C267B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABB49CD-5E3F-4240-86D0-9F332C267B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABB49CD-5E3F-4240-86D0-9F332C267B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABB49CD-5E3F-4240-86D0-9F332C267B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D0D3D6-0658-4240-92D7-CB8BC2CAAF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D0D3D6-0658-4240-92D7-CB8BC2CAAF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D0D3D6-0658-4240-92D7-CB8BC2CAAF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D0D3D6-0658-4240-92D7-CB8BC2CAAF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D81B4C-EF52-4584-96F8-A1F5B919FB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D81B4C-EF52-4584-96F8-A1F5B919FB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D81B4C-EF52-4584-96F8-A1F5B919FB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D81B4C-EF52-4584-96F8-A1F5B919FB2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

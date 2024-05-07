@@ -1,0 +1,15 @@
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\DoublyLinked_list\bin\Debug\net7.0\DoublyLinked_list.exe
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\DoublyLinked_list\bin\Debug\net7.0\DoublyLinked_list.deps.json
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\DoublyLinked_list\bin\Debug\net7.0\DoublyLinked_list.runtimeconfig.json
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\DoublyLinked_list\bin\Debug\net7.0\DoublyLinked_list.dll
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\DoublyLinked_list\bin\Debug\net7.0\DoublyLinked_list.pdb
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\DoublyLinked_list\obj\Debug\net7.0\DoublyLinked_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\DoublyLinked_list\obj\Debug\net7.0\DoublyLinked_list.AssemblyInfoInputs.cache
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\DoublyLinked_list\obj\Debug\net7.0\DoublyLinked_list.AssemblyInfo.cs
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\DoublyLinked_list\obj\Debug\net7.0\DoublyLinked_list.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\DoublyLinked_list\obj\Debug\net7.0\DoublyLinked_list.sourcelink.json
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\DoublyLinked_list\obj\Debug\net7.0\DoublyLinked_list.dll
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\DoublyLinked_list\obj\Debug\net7.0\refint\DoublyLinked_list.dll
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\DoublyLinked_list\obj\Debug\net7.0\DoublyLinked_list.pdb
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\DoublyLinked_list\obj\Debug\net7.0\DoublyLinked_list.genruntimeconfig.cache
+C:\Users\Ahmed Sameh\Desktop\DataStructures\DataStructures\DoublyLinked_list\obj\Debug\net7.0\ref\DoublyLinked_list.dll
