@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack", "Stack\Stack.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue", "Queue\Queue.csproj", "{18D0D3D6-0658-4240-92D7-CB8BC2CAAF4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublyLinked_list", "DoublyLinked_list\DoublyLinked_list.csproj", "{17D81B4C-EF52-4584-96F8-A1F5B919FB2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoublyLinked_list", "DoublyLinked_list\DoublyLinked_list.csproj", "{17D81B4C-EF52-4584-96F8-A1F5B919FB2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bainary_tree", "Bainary_tree\Bainary_tree.csproj", "{14AE27B5-D0D8-4484-A719-8A0CB6A2C2AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{17D81B4C-EF52-4584-96F8-A1F5B919FB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17D81B4C-EF52-4584-96F8-A1F5B919FB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17D81B4C-EF52-4584-96F8-A1F5B919FB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14AE27B5-D0D8-4484-A719-8A0CB6A2C2AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14AE27B5-D0D8-4484-A719-8A0CB6A2C2AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14AE27B5-D0D8-4484-A719-8A0CB6A2C2AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14AE27B5-D0D8-4484-A719-8A0CB6A2C2AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
