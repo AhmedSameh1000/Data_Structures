@@ -252,25 +252,17 @@ namespace Bainary_tree
 
             int smallesTinSubTree = FindSmallesValue(root.right).data;
 
-            var node = root;
-            var value = root.data;
-
             if (root.left is null && root.right is null)
             {
                 root = null;
-                node = null;
             }
             else if (root.left is null && root.right is not null)
             {
                 root = root.right;
-                node.right = null;
-                node = null;
             }
             else if (root.left is not null && root.right is null)
             {
                 root = root.left;
-                node.left = null;
-                node = null;
             }
             else
             {
@@ -315,6 +307,54 @@ namespace Bainary_tree
             {
                 return FindGreatestValuePrivate(node.right);
             }
+        }
+
+        public void DeleteNode(int value)
+        {
+            root = DeleteNodePrivate(value, root);
+        }
+
+        private Node DeleteNodePrivate(int value, Node node)
+        {
+            if (node == null)
+                return node;
+
+            // Traverse the tree to find the node to delete
+            if (value < node.data)
+            {
+                node.left = DeleteNodePrivate(value, node.left);
+            }
+            else if (value > node.data)
+            {
+                node.right = DeleteNodePrivate(value, node.right);
+            }
+            else
+            {
+                // Node to be deleted found
+
+                // Node with only one child or no child
+                if (node.left == null)
+                {
+                    return node.right;
+                }
+                else if (node.right == null)
+                {
+                    return node.left;
+                }
+
+                // Node with two children:
+                // Get the inorder successor (smallest in the right subtree)
+                node.data = FindSmallesValue(node.right).data;
+
+                // Delete the inorder successor
+                node.right = DeleteNodePrivate(node.data, node.right);
+            }
+            return node;
+        }
+
+        public void Is_Perfect()
+        {
+            return is_perfect(root);
         }
     }
 }

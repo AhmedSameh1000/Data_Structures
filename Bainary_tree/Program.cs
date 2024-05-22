@@ -11,8 +11,7 @@
 
             arr.ForEach(x => Bs.Add(x));
 
-            Bs.RemoveNode(100);
-            var find = Bs.FindByValue(50);
+            Bs.DeleteNode(8);
             Bs.PrintInOrder();
         }
     }
